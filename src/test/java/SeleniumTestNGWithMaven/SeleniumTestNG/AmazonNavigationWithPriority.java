@@ -8,7 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class TestCase2 {
+public class AmazonNavigationWithPriority {
 	public WebDriver driver;	 
 	@BeforeMethod
   public void launchBrowser() throws InterruptedException  {
